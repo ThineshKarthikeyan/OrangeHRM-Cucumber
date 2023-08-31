@@ -10,7 +10,6 @@ import org.junit.runner.RunWith;
         features = {"classpath:features"},
         glue = {"com.thinesh.steps", "com.thinesh.hooks"},
         monochrome = true,
-        tags = "@Login",
         plugin = {"rerun:failed_scenarios/failed_scenarios.txt", "pretty",
                 "html:target/cucumber-reports/reports.html",
                 "json:target/cucumber-reports/reports.json",
