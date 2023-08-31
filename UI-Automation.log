@@ -1,274 +1,169 @@
-2023-08-30 09:42:48,372 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 09:42:48,375 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 09:42:48,376 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 09:42:48,377 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 09:42:48,377 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 09:42:48,378 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Launching chrome
-2023-08-30 09:42:50,154 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 09:42:50,154 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 09:42:50,154 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 09:42:50,155 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 09:49:00,702 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 09:49:00,707 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 09:49:00,708 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 09:49:00,709 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 09:49:00,709 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 09:49:00,710 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Launching edge
-2023-08-30 09:49:15,869 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 09:49:15,870 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 09:49:15,870 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 09:49:15,870 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:21:20,544 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:21:20,546 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:21:20,547 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:21:20,547 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:21:20,547 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:21:20,548 [INFO ] com.thinesh.hooks.DriverManager [main] Launching edge
-2023-08-30 11:21:23,233 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:21:23,233 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:21:23,233 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:21:23,233 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:27:51,818 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:27:51,820 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:27:51,821 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:27:51,821 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:27:51,822 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:27:51,822 [INFO ] com.thinesh.hooks.DriverManager [main] Launching edge
-2023-08-30 11:27:57,722 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:27:57,722 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:27:57,722 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:27:57,723 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:33:02,730 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:33:02,732 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:33:02,733 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:33:02,733 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:33:02,734 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:33:02,734 [INFO ] com.thinesh.hooks.DriverManager [main] Launching edge
-2023-08-30 11:33:09,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:33:09,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:33:09,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:33:09,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:34:49,582 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:34:49,609 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:34:49,610 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:34:49,610 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:34:49,611 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:34:49,611 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:34:56,350 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:34:56,350 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:34:56,350 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:34:56,350 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:35:17,668 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:35:17,671 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:35:17,671 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:35:17,672 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:35:17,672 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:35:17,673 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:36:13,977 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:36:13,979 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:36:13,980 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:36:13,980 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:36:13,980 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:36:13,981 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:36:20,481 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:36:20,481 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:36:20,481 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:36:20,481 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:41:24,288 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:41:24,290 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:41:24,290 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:41:24,291 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:41:24,291 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:41:24,291 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:41:33,829 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:41:33,830 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:41:33,830 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:41:33,830 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:43:52,251 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:43:52,254 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:43:52,255 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:43:52,255 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:43:52,256 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:43:52,256 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:43:59,167 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:43:59,167 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:43:59,167 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:43:59,167 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:45:55,051 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:45:55,053 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:45:55,054 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:45:55,054 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:45:55,054 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:45:55,055 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:46:01,494 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:46:01,494 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:46:01,495 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:46:01,495 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:47:19,742 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:47:19,744 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:47:19,744 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:47:19,745 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:47:19,745 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:47:19,746 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:48:46,232 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:48:46,235 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:48:46,256 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:48:46,257 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:48:46,257 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:48:46,257 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:48:56,844 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 11:51:11,500 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:51:11,527 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:51:11,527 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:51:11,528 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:51:11,528 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:51:11,529 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:51:23,083 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 11:54:38,009 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 11:54:38,012 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 11:54:38,013 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 11:54:38,014 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 11:54:38,015 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 11:54:38,015 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 11:54:47,000 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 11:54:48,277 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 12:30:47,715 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 12:30:47,717 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 12:30:47,718 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 12:30:47,718 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 12:30:47,718 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 12:30:47,719 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 12:31:22,195 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 12:31:22,198 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 12:31:22,199 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 12:31:22,200 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 12:31:22,200 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 12:31:22,201 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 12:31:31,729 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 12:31:32,851 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 12:38:09,090 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 12:38:09,113 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 12:38:09,115 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 12:38:09,116 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 12:38:09,116 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 12:38:09,116 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 12:38:44,946 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 12:38:44,948 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 12:38:44,949 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 12:38:44,949 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 12:38:44,950 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 12:38:44,950 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 12:38:54,399 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 12:38:55,606 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 12:56:26,694 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 12:56:26,696 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 12:56:26,696 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 12:56:26,698 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 12:56:26,698 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 12:56:26,698 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 12:56:36,924 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 12:56:37,980 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:00:43,183 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:00:43,185 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:00:43,185 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:00:43,186 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:00:43,186 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:00:43,187 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:00:52,964 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:00:54,238 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:01:56,632 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:01:56,635 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:01:56,635 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:01:56,636 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:01:56,636 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:01:56,636 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:02:07,063 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:02:08,265 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:32:19,941 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:32:19,943 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:32:19,943 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:32:19,944 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:32:19,945 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:32:19,945 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:32:29,585 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:32:30,698 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:33:43,444 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:33:43,446 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:33:43,446 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:33:43,447 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:33:43,448 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:33:43,448 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:33:51,802 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:33:52,934 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:36:23,383 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:36:23,387 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:36:23,387 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:36:23,417 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:36:23,417 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:36:23,417 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:36:34,708 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:36:35,821 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:40:13,585 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:40:13,588 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:40:13,588 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:40:13,590 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:40:13,590 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:40:13,591 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:40:23,652 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:40:24,732 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:45:41,655 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:45:41,658 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:45:41,658 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:45:41,660 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:45:41,660 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:45:41,660 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:45:51,084 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:45:52,119 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:47:05,124 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:47:05,142 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:47:05,142 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:47:05,144 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:47:05,144 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:47:05,144 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:47:14,875 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:47:16,061 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:55:06,321 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:55:06,324 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:55:06,324 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:55:06,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:55:06,326 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:55:06,327 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:55:14,063 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:55:15,156 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:56:11,904 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:56:11,906 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:56:11,906 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:56:11,907 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:56:11,907 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:56:11,908 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:56:22,281 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:56:23,507 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:58:04,012 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:58:04,015 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:58:04,015 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:58:04,016 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:58:04,017 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:58:04,017 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:58:13,243 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:58:14,592 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 13:59:15,733 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 13:59:15,736 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 13:59:15,736 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 13:59:15,738 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 13:59:15,739 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 13:59:15,739 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 13:59:29,655 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 13:59:30,940 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
-2023-08-30 14:07:08,013 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
-2023-08-30 14:07:08,015 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
-2023-08-30 14:07:08,016 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
-2023-08-30 14:07:08,017 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
-2023-08-30 14:07:08,017 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
-2023-08-30 14:07:08,017 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome
-2023-08-30 14:07:18,096 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
-2023-08-30 14:07:19,051 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
+2023-08-31 09:48:52,973 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 09:48:52,988 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 09:48:52,988 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 09:48:52,989 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 09:48:52,990 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 09:48:52,999 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 09:49:02,049 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 09:49:03,471 [INFO ] com.thinesh.steps.LoginSteps [main] User clicks on the directory option from the Menu
+2023-08-31 17:43:31,546 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:43:31,549 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:43:31,549 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:43:31,578 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:43:31,578 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 17:43:31,589 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 17:43:35,171 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:43:35,171 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:43:35,172 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:43:35,172 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:44:17,526 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:44:17,529 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:44:17,530 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:44:17,531 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:44:17,532 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 17:44:17,543 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 17:44:19,979 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:44:19,979 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:44:19,979 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:44:19,979 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:54:35,265 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:54:35,267 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:54:35,267 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:54:35,297 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:54:35,297 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 17:54:35,341 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 17:54:45,396 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 17:54:45,696 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:54:45,696 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:54:45,696 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:54:45,697 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:56:54,059 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:56:54,062 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:56:54,062 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:56:54,063 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 17:56:54,063 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 17:56:54,072 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 17:57:01,981 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 17:57:02,252 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 17:57:02,252 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 17:57:02,252 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 17:57:02,252 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:01:15,811 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:01:16,386 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:01:16,906 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:01:17,729 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:01:18,649 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:01:19,197 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:01:38,982 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:01:45,442 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:01:46,786 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:01:47,299 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:01:51,954 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:03:03,161 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:03:03,166 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:03:03,166 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:03:03,168 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:03:03,168 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:03:03,190 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:03:10,724 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:03:40,633 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:03:40,633 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:03:40,634 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:03:40,634 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:04:15,630 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:04:15,632 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:04:15,632 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:04:15,633 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:04:15,633 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:04:15,642 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:04:24,689 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:04:24,850 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:04:24,850 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:04:24,850 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:04:24,850 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:05:44,721 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:05:44,723 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:05:44,723 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:05:44,725 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:05:44,726 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:05:44,734 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:05:51,719 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:05:51,989 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:05:51,989 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:05:51,989 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:05:51,990 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:07:49,455 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:07:49,457 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:07:49,458 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:07:49,459 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:07:49,459 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:07:49,468 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:07:59,917 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:08:00,188 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:08:00,188 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:08:00,188 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:08:00,188 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:08:13,253 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:08:13,256 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:08:13,256 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:08:13,257 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:08:13,258 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:08:13,266 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:08:22,679 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:08:38,862 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:08:38,863 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:08:38,863 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:08:38,863 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:09:14,755 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:09:14,758 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:09:14,758 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:09:14,761 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:09:14,761 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:09:14,771 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:09:23,402 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:09:28,701 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:09:28,701 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:09:28,701 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:09:28,701 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:10:12,149 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:10:12,153 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:10:12,153 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:10:12,190 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:10:12,191 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:10:12,208 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:10:38,264 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:10:38,269 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:10:38,269 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:10:38,271 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:10:38,271 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:10:38,292 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:11:05,637 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:11:10,907 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:11:10,907 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:11:10,907 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:11:10,908 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:13:01,137 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:13:01,139 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:13:01,139 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:13:01,141 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:13:01,141 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:13:01,149 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:13:12,988 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:13:18,334 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:13:18,335 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:13:18,335 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:13:18,335 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:15:21,115 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:15:21,118 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:15:21,118 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:15:21,119 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:15:21,119 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:15:21,130 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:15:29,599 [INFO ] com.thinesh.steps.LoginSteps [main] User logged in successfully and is on Homepage
+2023-08-31 18:15:29,878 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Execution Started
+2023-08-31 18:15:29,878 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Instantiation of CommonUtils
+2023-08-31 18:15:29,879 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Loading the properties file
+2023-08-31 18:15:29,879 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Checking the Driver is NULL or NOT?
+2023-08-31 18:15:29,879 [INFO ] com.thinesh.hooks.WebDriverHooks [main] Driver is NULL. Instantiating itr
+2023-08-31 18:15:29,879 [INFO ] com.thinesh.hooks.DriverManager [main] Launching chrome browser
+2023-08-31 18:15:38,314 [INFO ] com.thinesh.steps.LoginSteps [main] User unable to login
